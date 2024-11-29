@@ -1,6 +1,13 @@
 # Firebase Simple System
 
 A modern web application featuring user authentication and CRUD operations using Firebase, with a responsive design and intuitive user interface.
+![image](https://github.com/user-attachments/assets/a6fd5daf-6c66-4e96-9934-527c2da43238)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bc064986-7da1-4379-a9ad-32a8153716d8" width="40%" height="185px"/>
+  <img src="https://github.com/user-attachments/assets/1dbe0636-e99b-4934-9d7e-bf747e4851cc" width="32%" height="185px"/>
+ 
+</div>
+
 
 ## 🚀 Features
 
